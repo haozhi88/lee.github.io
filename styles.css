@@ -1,0 +1,28 @@
+.drawborder {
+  border: 1px solid black;
+}
+
+.drawborder2 {
+  border: 1px solid red;
+  background-color: aqua;
+}
+
+#display-message {
+  color: red;
+  font-size: 2rem;
+  border: 1px solid red;
+  text-align: center;
+}
+
+#display-gif {
+  color: blue;
+  font-size: 2rem;
+  border: 1px solid blue;
+  text-align: center;
+  height: 320px;
+  width: 200px;
+}
+
+#gif-img {
+  height: 90%;
+}
